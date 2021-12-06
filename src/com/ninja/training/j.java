@@ -1,7 +1,7 @@
 package com.ninja.training;
 
 import java.util.Scanner;  
-public class ArrayInputExample1   
+public class j   
 {  
 public static void main(String[] args)   
 {  
